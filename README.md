@@ -26,11 +26,11 @@ Student at Rabat School of Mines, passionate about Data Science, Machine Learnin
 * 🧠 Machine Learnig / Deep Learning / Junior Data Science
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-aitkourdas)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-aitkourdas)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=z-aitkourdas&show_icons=true)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=z-aitkourdas&show_icons=true)  -->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=z-aitkourdas)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=z-aitkourdas)  -->
 
 
 
@@ -67,7 +67,8 @@ Student at Rabat School of Mines, passionate about Data Science, Machine Learnin
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=z-aitkourdas&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=z-aitkourdas&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
-</p>
+</p>  
+
 ![Profile views](https://gpvc.arturio.dev/z-aitkourdas)  
 
 ### 🤝🏻 &nbsp;Connect with Me
