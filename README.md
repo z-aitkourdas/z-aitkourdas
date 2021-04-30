@@ -32,8 +32,6 @@ Student at Rabat School of Mines, passionate about Data Science, Machine Learnin
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=z-aitkourdas)  
 
-![Profile views](https://gpvc.arturio.dev/z-aitkourdas)  
-
 
 
 <img alt="Night Coding" src="https://github.com/z-aitkourdas/z-aitkourdas/blob/main/Night-Coding.gif" align="right"/>
@@ -65,11 +63,12 @@ Student at Rabat School of Mines, passionate about Data Science, Machine Learnin
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/z-aitkourdas">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=z-aitkourdas&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=z-aitkourdas&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
+![Profile views](https://gpvc.arturio.dev/z-aitkourdas)  
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -77,5 +76,7 @@ Student at Rabat School of Mines, passionate about Data Science, Machine Learnin
 <a href="https://linkedin.com/in/zouhair-ait-kourdas"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:z.aitkourdas@protonmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-</p>
+</p>  
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/z-aitkourdas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zouhair-ait-kourdas/)  
