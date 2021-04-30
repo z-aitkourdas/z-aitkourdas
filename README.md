@@ -7,7 +7,7 @@ Student at Rabat School of Mines, passionate about Data Science, Machine Learnin
 * 💻 C/C++ 
 * 🌐 JavaScript
 * 💽 SQL / MySQl / No-SQl / MongoDB
-* 🧠 Machine Learnig / Deep Learning / Junior Data Science </br>
+* 🧠 Machine Learnig / Deep Learning / Junior Data Science <br />
 
 - 🌱 I’m currently learning Data Mining, ConvNet 
 - 📫 How to reach me: z.aitkourdas@protonmail.com 
