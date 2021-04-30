@@ -8,7 +8,7 @@ Student at Rabat School of Mines, passionate about Data Science, Machine Learnin
 ## Skills: 
 * 🐍 Python 
 * 💻 C/C++ 
-* 🌐 JavaScript
+* 🌐 JavaScript / Node.JS
 * 💽 SQL / MySQl / No-SQl / MongoDB
 * 🧠 Machine Learnig / Deep Learning / Junior Data Science
 
