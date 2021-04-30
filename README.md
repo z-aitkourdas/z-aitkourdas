@@ -74,9 +74,8 @@ Student at Rabat School of Mines, passionate about Data Science, Machine Learnin
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/zouhair-ait-kourdas"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:z.aitkourdas@protonmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/zouhair-ait-kourdas"><img src="https://img.shields.io/badge/-Zouhair%20AIT%20KOURDAS-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:z.aitkourdas@protonmail.com"><img src="https://img.shields.io/badge/-z.aitkourdas@protonmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>  
 
 
