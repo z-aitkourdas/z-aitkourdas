@@ -1,8 +1,13 @@
-### Hi there 👋, my name is Zouhair
-#### I am computer science stdent
+## Hi there 👋, my name is Zouhair
+### I am computer science stdent
 Student at Rabat School of Mines, passionate about Data Science, Machine Learning, and Deep Learning.
 
-Skills: Python | C/C++ | JavaScript | SQL | Machine Learnig | Deep Learning | Junior Data Science
+## Skills: 
+* 🐍 Python 
+* 💻 C/C++ 
+* 🌐 JavaScript
+* 💽 SQL / MySQl / No-SQl / MongoDB
+* 🧠 Machine Learnig / Deep Learning / Junior Data Science
 
 - 🌱 I’m currently learning Data Mining, ConvNet 
 - 📫 How to reach me: z.aitkourdas@protonmail.com 
