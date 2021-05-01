@@ -19,9 +19,6 @@ Student at Rabat School of Mines, passionate about Data Science, Machine Learnin
 - 📫 How to reach me: z.aitkourdas@protonmail.com 
 
 ## Skills: 
-* 🐍 Python 
-* 💻 C/C++ 
-* 🌐 JavaScript / Node.JS
 * 💽 SQL / MySQl / No-SQl / MongoDB
 * 🧠 Machine Learnig / Deep Learning / Junior Data Science
 
