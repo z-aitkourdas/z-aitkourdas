@@ -69,7 +69,7 @@ Student at Rabat School of Mines, passionate about Data Science, Machine Learnin
 </a>
 </p>  
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()  
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=z-aitkourdas&langs_count=5&theme=tokyonight)]()  
 
 ![Profile views](https://gpvc.arturio.dev/z-aitkourdas)  
 
