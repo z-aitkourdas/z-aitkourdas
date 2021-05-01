@@ -66,9 +66,10 @@ Student at Rabat School of Mines, passionate about Data Science, Machine Learnin
 <a href="https://github.com/z-aitkourdas">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=z-aitkourdas&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=z-aitkourdas&layout=compact&exclude_lang=java+r&theme=vue-dark" />
-  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
 </a>
 </p>  
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()  
 
 ![Profile views](https://gpvc.arturio.dev/z-aitkourdas)  
 
