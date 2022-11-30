@@ -14,9 +14,6 @@
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 -->
 
-- 🌱 I’m currently learning Data Mining, ConvNet 
-- 📫 How to reach me: z.aitkourdas@protonmail.com 
-
 ## Skills: 
 * 💽 Python / C/C++ / SQL / MySQl / No-SQl / MongoDB
 * 🧠 Machine Learnig / Deep Learning
