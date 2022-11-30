@@ -1,16 +1,15 @@
 ## 👋 &nbsp;Hey there! I'm Zouhair
 
-### I am computer science stdent
-Student at Rabat School of Mines, passionate about Data Science, Machine Learning, and Deep Learning.
+### I am an Engineer
+🎓 &nbsp;Machine Learning Engineer at Rabat School of Mines, passionate about Data Science, Machine Learning, and Deep Learning.\
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science at Rabat School of Mines.\
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, and bit of Cloud Architecture.\
 ✍️ &nbsp;In my free time, I look at the teech news and andvancement/ Play video games\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at z.aitkourdas@protonmail.com I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at z.aitkourdas@protonmail.com .
 <!--
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 -->
@@ -19,8 +18,8 @@ Student at Rabat School of Mines, passionate about Data Science, Machine Learnin
 - 📫 How to reach me: z.aitkourdas@protonmail.com 
 
 ## Skills: 
-* 💽 SQL / MySQl / No-SQl / MongoDB
-* 🧠 Machine Learnig / Deep Learning / Junior Data Science
+* 💽 Python / C/C++ / SQL / MySQl / No-SQl / MongoDB
+* 🧠 Machine Learnig / Deep Learning
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-aitkourdas)](https://github.com/anuraghazra/github-readme-stats) -->
